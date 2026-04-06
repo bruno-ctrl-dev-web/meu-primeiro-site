@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:rgb(238, 156, 79);">
+<h1>About me</h1>
+<p>I am relatively new to programming and am particularly interested in web development, such as websites and applications. That's why I'm studying HTML, JavaScript, CSS, and more. I really like coffee, but for some reason, my body has great resistance to caffeine, which turns out to be good because I can drink as much coffee as I want, whenever I want, without worrying about whether I'll be able to sleep afterward. I'm Brazilian, but I study English intensively because I believe it's the gateway to the world of work and relationships in general.</p>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNu1dU74Aj8PiZRrz_N9zemofSMTEAzD-3qg&s" width="380" height="345">
+</body>
+</html>
